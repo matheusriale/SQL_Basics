@@ -1,3 +1,3 @@
 # SQL_Basics
 
-Reviewing basics of SQL
+Reviewing basics of SQL.
